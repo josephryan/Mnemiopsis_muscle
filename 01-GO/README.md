@@ -8,6 +8,10 @@ mlgo.cellular_component.csv.gz
 
 mlgo.molecular_function.csv.gz
 
+##### mcgo.pl 
+
+script used to run Monte Carlo gene ontology analyses
+
 # GO COMMANDS
 
 ### Trinotate
